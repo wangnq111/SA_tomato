@@ -1,0 +1,24 @@
+Substance	Abbreviation	Growth Characteristics	Disease	rep1	rep2	rep3	Label
+Succinic acid	SA	0.1263	0	0	0	0	Neutral
+Glycine	Gly	0.0079	4.166666667	12.5	0	0	Neutral
+Glycolic acid	Glyc	-0.011733333	4.166666667	12.5	0	0	Neutral
+Sucrose	Sucr	0.350933333	8.333333333	12.5	0	12.5	Promotion
+D-xylose	D-Xyl	0.086433333	12.5	12.5	12.5	12.5	Neutral
+L-arabinose	L-Ara	0.408033333	12.5	12.5	12.5	12.5	Neutral
+Tartaric acid	Tar	-0.032533333	12.5	12.5	12.5	12.5	Inhibition
+Pyruvic acid	Pyr	-0.290033333	14.58333333	12.5	25	6.25	Inhibition
+D-fructose	D-Fr	0.375933333	16.66666667	25	12.5	12.5	Promotion
+D-ribose	D-Rib	0.3473	16.66666667	25	12.5	12.5	Promotion
+Galacturonic acid	Galac	0.2024	18.75	25	12.5	18.75	Promotion
+D-mannose	D-Man	0.4132	20.83333333	31.25	25	6.25	Promotion
+L-glutamine	L-Gln	0.204066667	20.83333333	25	25	12.5	Promotion
+D-galactose	D-Gal	0.342366667	22.91666667	37.5	12.5	18.75	Promotion
+D-mannitol	Mann	0.3397	29.16666667	37.5	25	25	Promotion
+Glucose	Glu	0.4352	29.16666667	25	37.5	25	Promotion
+L-phenylalanine	L-Phe	0.057566667	37.5	37.5	50	25	Neutral
+L-tryptophan	L-Try	0.078466667	62.5	62.5	62.5	62.5	Neutral
+L-methionine	L-Met	0.0097	75	87.5	75	62.5	Neutral
+L-leucine	L-Leu	0.0103	75	87.5	75	62.5	Neutral
+D-serine	D-Ser	0.065833333	83.33333333	100	87.5	62.5	Neutral
+L-alanine	L-Ala	0.0813	87.5	87.5	87.5	87.5	Neutral
+L-proline	L-Pro	0.211266667	94.44444444	100	87.5	95.83333333	Promotion
