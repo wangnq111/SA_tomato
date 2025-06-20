@@ -1,4 +1,8 @@
 # SA_tomato
+Article Title: Succinic acid reduces tomato bacterial wilt disease by recruiting Sphingomonas sp
+DOI: 10.1186/s40793-025-00742-1
+
+
 Based R version (4.4.1)
 Based LorMe package version (1.2.0)
 
