@@ -6,7 +6,9 @@
 
 Based R version (4.4.1)
 Based LorMe package version (1.2.0)
+
 **Caution: LorMe version ≥ 2.0.0 may reduce error in this project**
+
 **注意：LorMe  ≥ 2.0.0的版本可能会导致本项目的脚本出现报错**
 
 Please start with 'tomato_SA.Rproj', where I already set the working directory. Then each of the '*.R' scripts are available for running individually.
